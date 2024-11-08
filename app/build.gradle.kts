@@ -51,4 +51,6 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
 
     implementation (libs.androidx.recyclerview)
+
+    implementation(libs.tabscrollattacher)
 }
